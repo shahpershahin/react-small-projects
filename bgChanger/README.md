@@ -1,7 +1,7 @@
 # React + Vite
 
 clone this project 
-# **git clone https://github.com/shahpershahin/react-small-project/bgChanger**
+### **git clone https://github.com/shahpershahin/react-small-project/bgChanger**
 
 after cloning move to this project floder and run this command in the terminal of the project
 # **npm install** or **npm i** 
